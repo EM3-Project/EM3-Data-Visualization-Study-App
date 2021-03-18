@@ -14,9 +14,10 @@ This work was made possible by National Priorities Research Program (NPRP) grant
 You can view screenshots and videos of the app in Screenshots.zip and Videos.zip respectively.
 
 Kindly cite our work(s) below if you used this repository:
+
 1- A. Al-Kababji et al., "Energy Data Visualizations on Smartphones for Triggering Behavioral Change: Novel Vs. Conventional," 2020 2nd Global Power, Energy and Communication Conference (GPECOM), Izmir, Turkey, 2020, pp. 312-317, doi: 10.1109/GPECOM49333.2020.9247901.
 
-BibTeX citations:
+BibTeX citations of above work(s):
 
 @inproceedings{AlKababji2020,
   author={A. {Al-Kababji} and A. {Alsalemi} and Y. {Himeur} and F. {Bensaali} and A. {Amira} and R. {Fernandez} and N. {Fetais}},
