@@ -27,3 +27,15 @@ You can view screenshots and videos of the app in Screenshots.zip and Videos.zip
   pages={312-317},
   doi={10.1109/GPECOM49333.2020.9247901}
 }
+
+@article{ALKABABJI2022132841,
+title = {Interactive visual study for residential energy consumption data},
+journal = {Journal of Cleaner Production},
+volume = {366},
+pages = {132841},
+year = {2022},
+issn = {0959-6526},
+doi = {https://doi.org/10.1016/j.jclepro.2022.132841},
+url = {https://www.sciencedirect.com/science/article/pii/S0959652622024350},
+author = {Ayman Al-Kababji and Abdullah Alsalemi and Yassine Himeur and Rachael Fernandez and Faycal Bensaali and Abbes Amira and Noora Fetais}
+}
